@@ -10,13 +10,12 @@
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Adonijah_kimut)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=Adonijah_kimut&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adonijah01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
