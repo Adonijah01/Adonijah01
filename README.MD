@@ -1,5 +1,5 @@
-k# 💫 About Me:
-🔭 currently in the ALX SE program <br>👯 I’m looking to collaborate in any open source peoject <br>🌱 I’m currently learning C and PHP<br> Student at KCA University
+ 💫 About Me:
+🔭 currently in the ALX SE program <br>👯 I’m looking to collaborate in any open source peoject <br>🌱 I’m currently learning C and PHP<br> ⚡️Student at KCA University
 
 
 ## 🌐 Socials:
