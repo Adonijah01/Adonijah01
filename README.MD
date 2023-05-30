@@ -1,6 +1,6 @@
  💫 About Me:<br>
 🔭 My name is Adonijah Kiplimo 🔥 <br> 🧑‍🎓Currently in the ALX SE program <br>👯 I’m looking to collaborate in any open source project <br>🌱 I’m currently learning C and PHP<br> ⚡️Student at KCA University
-🫳Aspiring 🔙🔚 developer.
+<br>🫳Aspiring 🔙🔚 developer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imma_head_ouut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adonijah-kiplimo-1a00b9215) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/carbrien001) 
