@@ -9,6 +9,14 @@
 💫 About Me:<br>
 🔭 My name is Adonijah Kiplimo 🔥 <br> 🧑‍🎓Currently in the ALX SE program <br>👯 I’m looking to collaborate in any open source project <br>🌱 I’m currently learning C and PHP<br> ⚡️Student at KCA University
 <br>🫳Aspiring 🔙🔚 developer.
+<p align="center">
+  <a href="https://twitter.com/layersony"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/layersony?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/layersony"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/layersony?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+
+</p>
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imma_head_ouut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adonijah-kiplimo-1a00b9215) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/carbrien001) 
