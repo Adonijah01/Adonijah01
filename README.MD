@@ -1,4 +1,12 @@
- 💫 About Me:<br>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
+<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Maingi Samuel </a> - aka layersony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+
+
+
+💫 About Me:<br>
 🔭 My name is Adonijah Kiplimo 🔥 <br> 🧑‍🎓Currently in the ALX SE program <br>👯 I’m looking to collaborate in any open source project <br>🌱 I’m currently learning C and PHP<br> ⚡️Student at KCA University
 <br>🫳Aspiring 🔙🔚 developer.
 
