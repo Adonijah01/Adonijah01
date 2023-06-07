@@ -83,8 +83,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-
 ### Trophy and Contributions.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adonijah01&theme=onedark)](https://github.com/Adonijah01/github-profile-trophy)
 
