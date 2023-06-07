@@ -89,4 +89,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adonijah01&theme=onedark)](https://github.com/Adonijah01/github-profile-trophy)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saiss-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Adonijah01&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
