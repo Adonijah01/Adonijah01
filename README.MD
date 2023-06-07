@@ -15,7 +15,7 @@
 💫 About Me:<br>
 🔭 My name is Adonijah Kiplimo  <br> 🧑‍🎓Currently in the ALX SE program <br>👯 I’m looking to collaborate in any open source project <br>🌱 I’m currently learning C and PHP<br> ⚡️Student at KCA University
 <br>🫳Aspiring 🔙🔚 developer.
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Adonijah01/github-profile-trophy)
 👨‍💻 Languages and Tools:
 
 <table>
