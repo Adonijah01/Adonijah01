@@ -15,7 +15,7 @@
 💫 About Me:<br>
 🔭 My name is Adonijah Kiplimo  <br> 🧑‍🎓Currently in the ALX SE program <br>👯 I’m looking to collaborate in any open source project <br>🌱 I’m currently learning C and PHP<br> ⚡️Student at KCA University
 <br>🫳Aspiring 🔙🔚 developer.
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adonijah01&theme=onedark)](https://github.com/Adonijah01/github-profile-trophy)
+
 👨‍💻 Languages and Tools:
 
 <table>
@@ -85,8 +85,8 @@
 
 ### 🔝 Top Contributed Repo
 
-### 😂 Random Dev Meme
-<a> https://github.com/halitsever/random-memes#asyncawait </a>
+### Trophy and Contributions.
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adonijah01&theme=onedark)](https://github.com/Adonijah01/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saiss-ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
